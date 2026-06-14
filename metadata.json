@@ -1,0 +1,6 @@
+{
+  "name": "Compose Studio",
+  "description": "Jetpack Compose interactive live-emulation workspace and AI visual designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
